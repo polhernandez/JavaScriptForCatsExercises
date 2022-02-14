@@ -1,0 +1,10 @@
+body {
+  font-family: monospace;
+  background-color: black;
+  color: mediumspringgreen;
+}
+
+footer {
+  position: fixed;
+  padding-bottom: 25px
+}
